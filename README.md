@@ -23,5 +23,5 @@ Working on your own repo and pull request to main repo (like major update, finsh
 <br>
 
 ## 2. Create repo at your own repository
-Create new repository at Applicator
+Create new repository at Applicator  
 Make README.md that include your own project link and description  
