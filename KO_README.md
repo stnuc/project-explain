@@ -1,6 +1,7 @@
 <div align="center">
 Languages<br>
-<a link="./KO_README.md">한국어</a> | <a link="./">English</a>
+
+[한국어](./KO_README.md) | [English](./README.md)
 </div>
 
 # Welcome to Project
@@ -9,6 +10,7 @@ Languages<br>
 두가지 방법으로 진행할 수 있습니다  
 1. Owner를 Applicator에 두고, fork하여 작업하는 방법  
 2. 자신의 repo를 만들고, Applicator에 링크만 남기는 방법  
+<br>
 
 ## 1. Create repo at Applicator
 새 리포지토리를 만듭니다 (Owner at Applicator)  
@@ -18,6 +20,7 @@ Languages<br>
 <img src="./imgs/2.png">
 
 개인 리포지토리에서 작업 후, 주기적으로 메인 리포지토리에 pull request합니다 (메이저 업데이트, 프로젝트 마무리 등)  
+<br>
 
 ## 2. Create repo at your own repository
 Applicator에 새 리포지토리를 만듭니다  
